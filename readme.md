@@ -122,8 +122,8 @@ Interfaz de Usuario**
 -Operaciones CRUD disponibles a través de la interfaz
 
 # Autor
-** Jorge Alberto Ballestas Morales**
--Estudiante de Análisis y Desarrollo del Software-
+** Jorge Alberto Ballestas Morales** <br><\br>
+-Estudiante de Análisis y Desarrollo del Software- <br><\br>
 -SENA-
 
 # contacto

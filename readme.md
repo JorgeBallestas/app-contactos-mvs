@@ -5,39 +5,39 @@
 Estructura del Proyecto
 text**
 
--CONTACT-APP/ <br><\br>
--├── Config/ <br><\br>
--│   └── Database.php <br><\br>
--├── Controllers/ <br><\br>
--│   ├── AuthController.php <br><\br>
--│   └── ContactController.php <br><\br>
--├── Models/ <br><\br>
--│   ├── Contact.php <br><\br>
--│   └── User.php <br><\br>
--├── Views/ <br><\br>
--│   ├── auth/ <br><\br>
--│   │   ├── login.php <br><\br>
--│   │   └── register.php <br><\br>
--│   ├── contacts/ <br><\br>
--│   │   ├── create.php <br><\br>
--│   │   ├── delete.php <br><\br>
--│   │   ├── edit.php <br><\br>
--│   │   ├── index.php <br><\br>
--│   │   └── layout.php <br><\br>
--├── public/ <br><\br>
--│   ├── index.php <br><\br>
--│   └── style.css <br><\br>
--├── vendor/ <br><\br>
--│   └── composer/ <br><\br>
--│       ├── autoload_classmap.php <br><\br>
--│       ├── autoload_namespaces.php <br><\br>
--│       ├── autoload_psr4.php <br><\br>
--│       ├── autoload_real.php <br><\br>
--│       ├── autoload_static.php <br><\br>
--│       ├── ClassLoader.php <br><\br>
--│       ├── LICENSE <br><\br>
--│       └── autoload.php <br><\br>
--└── composer.json (implícito) <br><\br>
+-CONTACT-APP/ <br>
+-├── Config/ <br>
+-│   └── Database.php <br>
+-├── Controllers/ <br>
+-│   ├── AuthController.php <br>
+-│   └── ContactController.php <br>
+-├── Models/ <br>
+-│   ├── Contact.php <br>
+-│   └── User.php <br>
+-├── Views/ <br>
+-│   ├── auth/ <br>
+-│   │   ├── login.php <br>
+-│   │   └── register.php <br>
+-│   ├── contacts/ <br>
+-│   │   ├── create.php <br>
+-│   │   ├── delete.php <br>
+-│   │   ├── edit.php <br>
+-│   │   ├── index.php <br>
+-│   │   └── layout.php <br>
+-├── public/ <br>
+-│   ├── index.php <br>
+-│   └── style.css <br>
+-├── vendor/ <br>
+-│   └── composer/ <br>
+-│       ├── autoload_classmap.php <br>
+-│       ├── autoload_namespaces.php <br>
+-│       ├── autoload_psr4.php <br>
+-│       ├── autoload_real.php <br>
+-│       ├── autoload_static.php <br>
+-│       ├── ClassLoader.php <br>
+-│       ├── LICENSE <br>
+-│       └── autoload.php <br>
+-└── composer.json (implícito) <br>
 
 #Arquitectura MVC
 

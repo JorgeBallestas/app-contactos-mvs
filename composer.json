@@ -1,0 +1,15 @@
+{
+    "name": "aprendiz/contact-app",
+    "autoload": {
+        "psr-4": {
+            "App": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Jorge Ballestas",
+            "email": "ballestasjorge66@gmail.com"
+        }
+    ],
+    "require": {}
+}

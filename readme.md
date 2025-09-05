@@ -1,4 +1,5 @@
 # Contact App - Documentación del Proyecto
+
 # Descripción General
 
 **Contact App es una aplicación web para gestión de contactos desarrollada con arquitectura MVC, utilizando PHP Orientado a Objetos, PDO para la conexión a base de datos y Composer para la gestión de dependencias.
@@ -54,8 +55,8 @@ layout.php: Plantilla base para las vistas
 AuthController.php: Controla autenticación y autorización
 ContactController.php: Gestiona las operaciones CRUD de contactos
 
-#Configuración
-#Database.php
+**Configuración**
+**Database.php**
 
 **Configuración de la conexión a la base de datos usando PDO:
 php*

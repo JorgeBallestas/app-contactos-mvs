@@ -39,7 +39,7 @@ CONTACT-APP/ <br>
 │       └── autoload.php <br>
 └── composer.json (implícito) <br>
 
-#Arquitectura MVC
+# Arquitectura MVC
 
 **Modelo (Models)**
 User.php: Maneja la lógica de negocio relacionada con los usuarios
